@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-Excel,SQL,Tableau,PowerBI,Python
+Excel,SQL,PowerBI,Python
 
 
 ## Other Common Github Profile Sections
