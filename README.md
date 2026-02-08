@@ -10,9 +10,7 @@ Excel,SQL,PowerBI,Python
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on improving my problem solving skills.
-
-👯‍♀️ I'm looking to collaborate on various industry relevant    projects
+I'm looking to collaborate on various industry relevant projects
 
 📫 How to reach me 
     
